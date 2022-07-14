@@ -2,8 +2,5 @@
 
 ## Data Analyst | Data Science Enthusiast | Python Programmer
 
-
-I'm software devloper working on Python Devloper 💻
-
-- 🔭 I’m currently working on Data Analysis
+- 💻 I’m currently working on Data Analysis, Web Scraping, ML Model Development and Deployment.
 - 🌱 I’m currently learning Django.
