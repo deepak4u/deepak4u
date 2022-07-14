@@ -1,7 +1,7 @@
 
 <p align="center"> 
-  <h1 align="center"> Hi, I am Babaji <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-  <h3 align="center"> Data Analyst | Data Science Enthusiast | Python Programmer </h3>
+  <h2 align="center"> Hi there, I am Babaji <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+  <h4 align="center"> Data Analyst | Data Science Enthusiast | Python Programmer </h4>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=deepak4u&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=deepak4u&show_icons=true&theme=dark&locale=en&hide_border=true" alt="deepak4u" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak4u&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
