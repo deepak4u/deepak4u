@@ -14,7 +14,7 @@
 
 - 👨‍💻 I’m currently working on Data Analysis, Web Scraping, ML Model Development and Deployment.
 - 📊 I love to explore new technologies and leverage them to solve real-life problem.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Django.
 - ⚡ Fun fact: Torture the data and it will confess!
 
 ***
