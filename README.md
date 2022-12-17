@@ -27,6 +27,8 @@
 </table>
 
 
+## Contact me:
+'''
 # Contact me:
 import pandas as pd
 d = {
@@ -41,3 +43,4 @@ d = {
         99, 32, 98, 32, 32, 64, 32, 49, 116, 101, 32, 32, 32, 102, 116, 103, 110, 57, 110, 117, 32, 115, 114, 116, 32, 97, 32]
 }
 print (pd.DataFrame(d).pivot(1,0,2).applymap(chr).agg(''.join))
+'''
