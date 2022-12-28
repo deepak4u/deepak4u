@@ -1,7 +1,7 @@
 
 <p align="center"> 
   <h2 align="center"> Hi there, I am Babaji <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-  <h3 align="center"> Data Analyst | Data Science Enthusiast | Python Programmer </h3>
+  <h3 align="center"> Python Developer | Data Analyst | Data Science Enthusiast </h3>
 </p>
 
 <p align="center">
