@@ -5,13 +5,17 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Automation%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/babajisawant/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="85px"/> </a>
 <a href="mailto:bvsawant1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="68px"/> </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepak4u&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22deepak4u" width="95px"/> </p>
 
 
-- 👨‍💻 I’m currently working on Automations, Data Engineering/Analysis, Django, Web Scraping.
+- 👨‍💻 I’m currently working on Automations, Data Engineering/Analysis, Django.
 - 📊 I love to explore new technologies and leverage them to solve real-life problem.
 - ⚡ Fun fact: Torture the data and it will confess!
 
