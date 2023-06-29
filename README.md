@@ -15,7 +15,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepak4u&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22deepak4u" width="95px"/> </p>
 
 
-- 👨‍💻 I’m currently working on Automations, Data Engineering/Analysis, Flask, Django.
+- 👨‍💻 I’m currently working on Automations, Data Engineering/Analysis, Flask, Airflow.
 - 📊 I love to explore new technologies and leverage them to solve real-life problem.
 - 💻 Tech stack - Python, Pandas, ETL, Scripting, Web scraping, Flask, Django, MySQL, Tkinter, AWS.
 - ⚡ Fun fact: Torture the data and it will confess!
