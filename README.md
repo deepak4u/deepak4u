@@ -12,7 +12,7 @@ d
 <a href="https://www.linkedin.com/in/babajisawant/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="85px"/> </a>
 <a href="mailto:bvsawant1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="68px"/> </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deepak4u" width="95px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deepak4u&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22deepak4u" width="95px"/> </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepak4u&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22deepak4u" width="95px"/> </p> -->
 
 
