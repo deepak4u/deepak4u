@@ -1,4 +1,3 @@
-d
 <p align="center"> 
   <h2 align="center"> Hi there, I am Babaji <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
   <h3 align="center"> Python Developer | Data Engineer/Analyst | Data Science Enthusiast </h3>
