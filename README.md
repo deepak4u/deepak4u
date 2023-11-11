@@ -17,7 +17,7 @@
 
 - 👨‍💻 I’m currently working on Automations, Data Engineering/Analysis, Flask, Airflow.
 - 📊 I love to explore new technologies and leverage them to solve real-life problem.
-- 💻 Tech stack - Python, Pandas, ETL, Scripting, Web scraping, Flask, Django, MySQL, Tkinter, AWS.
+- 💻 Tech stack - Python, Pandas, ETL, Scripting, Web scraping, Flask, MySQL, Tkinter, AWS.
 - ⚡ Fun fact: Torture the data and it will confess!
 
 ***
